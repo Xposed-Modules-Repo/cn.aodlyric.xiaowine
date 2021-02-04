@@ -74,6 +74,10 @@ Example:
 
 ### Visibility
 
+If you want to hide the module from the repository temporarily, you can change repository to private in Repository Settings.
+
+If you just want the module not to be displayed in the website page or manager, create a [HIDE](HIDE) file.
+
 ## Versions
 
 We use GitHub releases as a version update.
