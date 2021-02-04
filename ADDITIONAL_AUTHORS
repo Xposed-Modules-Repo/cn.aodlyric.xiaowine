@@ -1,5 +1,10 @@
-[
-	"exampleAuthorA",
-	"exampleAuthorB",
-	"exampleAuthorC"
-]
+[{
+	"name": "exampleAuthorA",
+	"link": "http://example.author/A/user/link"
+}, {
+	"name": "exampleAuthorB",
+	"link": "http://example.author/B/user/link"
+}, {
+	"name": "exampleAuthorC",
+	"link": ""
+}]
