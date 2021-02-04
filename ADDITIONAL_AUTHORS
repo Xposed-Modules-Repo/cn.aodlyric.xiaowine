@@ -1,10 +1,15 @@
 [{
+	"type": "add",
 	"name": "exampleAuthorA",
 	"link": "http://example.author/A/user/link"
 }, {
+	"type": "add",
 	"name": "exampleAuthorB",
 	"link": "http://example.author/B/user/link"
 }, {
-	"name": "exampleAuthorC",
-	"link": ""
+	"type": "add",
+	"name": "exampleAuthorC"
+}, {
+	"type": "remove",
+	"name": "someoneInContributorsWillRemove"
 }]
