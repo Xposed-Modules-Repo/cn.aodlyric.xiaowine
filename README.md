@@ -70,7 +70,7 @@ Example:
 ```
 
 > In case you have developed the module together with somebody else, but they don't have a GitHub account. You can write their names and links into the file.
-> All commited contributors in this repository will be added by default.
+> All `Outside Collaborators` in this repository will be added by default.
 
 ### Visibility
 
