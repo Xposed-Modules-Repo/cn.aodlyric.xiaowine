@@ -113,3 +113,14 @@ experimental has been merged with beta
 The Release Description.
 
 > A list of changes (new features, bugfixes) in this particular version.
+
+## Module Activation Scope
+
+Json array in [SCOPE](SCOPE) file.
+
+This recommended configuration is used when the module does not provide its own scope.
+
+Example: 
+```json
+["android", "com.android.settings"]
+```
