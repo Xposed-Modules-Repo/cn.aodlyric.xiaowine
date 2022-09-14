@@ -9,17 +9,18 @@
 
 </div>
 
-
 ### 在支持的息屏上显示歌词和部分增强功能
+
 #### 目前只支持MIUI
 
-### 此模块歌词功能需要配合[墨•状态栏歌词](https://github.com/Block-Network/StatusBarLyric)使用  
+### 此模块歌词功能需要配合[墨•状态栏歌词](https://github.com/Block-Network/StatusBarLyric)使用
 
+<img src="/pic/1.jpg"/>
+<img src="/pic/2.jpg"/>
+<img src="/pic/3.jpg" />
+<img src="/pic/4.jpg" />
+<img src="/pic/5.jpg" />
+<img src="/pic/7.jpg" />
+<img src="/pic/8.jpg" />
+<img src="/pic/9.jpg" />
 
-<div align="center">
-<img src="/pic/p1.jpg" width="25%" height="25%" />
-<img src="/pic/p2.jpg" width="25%" height="25%" />
-<img src="/pic/p3.jpg" width="25%" height="25%" />
-<img src="/pic/p4.jpg" width="25%" height="25%" />
-<img src="/pic/p5.jpg" width="25%" height="25%" />
-</div>
