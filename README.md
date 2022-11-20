@@ -14,13 +14,14 @@
 #### 目前只支持MIUI
 
 ### 此模块歌词功能需要配合[墨•状态栏歌词](https://github.com/Block-Network/StatusBarLyric)使用
-
-<img src="/pic/1.jpg"/>
-<img src="/pic/2.jpg"/>
-<img src="/pic/3.jpg" />
-<img src="/pic/4.jpg" />
-<img src="/pic/5.jpg" />
-<img src="/pic/7.jpg" />
-<img src="/pic/8.jpg" />
-<img src="/pic/9.jpg" />
+![这是图片](/pic/0.jpg "")
+![这是图片](/pic/1.jpg "")
+![这是图片](/pic/2.jpg "")
+![这是图片](/pic/3.jpg "")
+![这是图片](/pic/4.jpg "")
+![这是图片](/pic/5.jpg "")
+![这是图片](/pic/6.jpg "")
+![这是图片](/pic/7.jpg "")
+![这是图片](/pic/8.jpg "")
+![这是图片](/pic/9.jpg "")
 
