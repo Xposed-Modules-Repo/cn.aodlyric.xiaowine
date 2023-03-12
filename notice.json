@@ -1,1 +1,1 @@
-{"forcibly":false,"versionCode":5,"minVersionCode":25,"maxVersionCode":999,"isLButton":false,"lButton":"补填地址","url":"","data":"后台服务器暂停服务"}
+{"forcibly":true,"versionCode":5,"minVersionCode":25,"maxVersionCode":999,"isLButton":false,"lButton":"补填地址","url":"","data":"由于校验数据的简化，数据结构发生变化，需要再次提交。对此表示抱歉，部分用于经常掉验证也正在排查中"}
