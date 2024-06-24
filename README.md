@@ -4,7 +4,7 @@
 
 ![Release Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/cn.aodlyric.xiaowine/total?style=flat-square)
 [![Release Version](https://img.shields.io/github/v/release/Xposed-Modules-Repo/cn.aodlyric.xiaowine?style=flat-square)](https://github.com/Xposed-Modules-Repo/cn.aodlyric.xiaowine/releases/latest)
-[![QQ群](https://img.shields.io/badge/QQ群-294862344-blue.svg?style=flat-square&color=12b7f5)](https://jq.qq.com/?_wv=1027&k=cwT4Qgoh)
+[![QQ群](https://img.shields.io/badge/QQ群-1101308763-blue.svg?style=flat-square&color=12b7f5)]([https://jq.qq.com/?_wv=1027&k=cwT4Qgoh](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=gPF5IVxYG84hHp0qNOy-LbfPHxNQBzGt&authKey=EGXWdmo0KsFse06IlPnobDbHFGYFuypeMv7a1Ee1dkIGy5VglYOrvsqV1mKGbQGu&noverify=0&group_code=1101308763))
 
 </div>
 
